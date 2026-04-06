@@ -1,0 +1,11 @@
+requests
+pandas
+python-dotenv
+schedule
+neat-python
+yfinance
+fake-useragent
+sie-banxico
+python-dateutil
+pytz
+pickle5
